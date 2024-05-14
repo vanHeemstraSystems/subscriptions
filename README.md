@@ -7,3 +7,5 @@ Subscriptions
 | 002 | Dakboard | ?? | 19 March 2024 | Yearly | $ ?? |
 | 003 | Shelly Cloud | ?? | Ongoing | N/A | $ FREE |
 | 004 | YouTube Premium | ?? | 14 May 2024 | Monthly | £ 10.32 |
+| 005 | GitHub | ?? | Ongoing | Monthly | £ 20.00 |
+| 006 | Apple iCloud | ?? | Ongoing | Monthly | £ 4.99 |
