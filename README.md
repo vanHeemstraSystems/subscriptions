@@ -17,3 +17,4 @@ Subscriptions
 | 012 | GitLab - van Heemstra Systems | ?? | Ongoing | Monthly | $ Free |
 | 013 | n8n | ?? | Ongoing | Monthly | € 10 |
 | 014 | AlarmGrid | ?? | 14 May 2024 | Monthly | ~$ 10~ |
+| 015 | Tractive | ?? | 14 May 2024 | Yearly | ~$ ??~ |
