@@ -5,7 +5,7 @@ Subscriptions
 | -- | -- | -- | -- | -- | -- |
 | 001 | Bluehost | ?? | 19 March 2024 | Yearly | $ 251.76 |
 | 002 | Dakboard | ?? | 19 March 2024 | Yearly | $ ?? |
-| 003 | Shelly Cloud | ?? | Ongoing | N/A | $ FREE |
+| 003 | Shelly Cloud | ?? | Ongoing | N/A | $ Free |
 | 004 | YouTube Premium | ?? | 14 May 2024 | Monthly | £ 10.32 |
 | 005 | GitHub | ?? | Ongoing | Monthly | £ 20.00 |
 | 006 | Apple iCloud | ?? | Ongoing | Monthly | £ 4.99 |
@@ -13,3 +13,5 @@ Subscriptions
 | 008 | Adobe Audition | 27 February 2024 | 14 May 2024 | Monthly | £ 34.99 |
 | 009 | Adobe After Effects | 27 February 2024 | 14 May 2024 | Monthly | £ 39.64 |
 | 010 | Production Crate | ?? | 14 May 2024 | Monthly | £ 12.30 |
+| 011 | GitLab - Agility Game | ?? | Ongoing | Monthly | £ Free - Consider Premium |
+| 012 | GitLab - van Heemstra Systems | ?? | Ongoing | Monthly | £ Free |
