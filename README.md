@@ -15,4 +15,4 @@ Subscriptions
 | 010 | Production Crate | ?? | 14 May 2024 | Monthly | £ 12.30 |
 | 011 | GitLab - Agility Game | ?? | Ongoing | Monthly | $ Free - Consider Premium $ 29.00 |
 | 012 | GitLab - van Heemstra Systems | ?? | Ongoing | Monthly | $ Free |
-| 013 | n8n | ?? | Ongoing | Monthly | $ ?? |
+| 013 | n8n | ?? | Ongoing | Monthly | € 10 |
