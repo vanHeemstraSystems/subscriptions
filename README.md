@@ -9,3 +9,4 @@ Subscriptions
 | 004 | YouTube Premium | ?? | 14 May 2024 | Monthly | £ 10.32 |
 | 005 | GitHub | ?? | Ongoing | Monthly | £ 20.00 |
 | 006 | Apple iCloud | ?? | Ongoing | Monthly | £ 4.99 |
+| 007 | GitPod | ?? | Ongoing | Monthly | £ 7.97 |
