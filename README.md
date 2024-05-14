@@ -10,4 +10,4 @@ Subscriptions
 | 005 | GitHub | ?? | Ongoing | Monthly | £ 20.00 |
 | 006 | Apple iCloud | ?? | Ongoing | Monthly | £ 4.99 |
 | 007 | GitPod | ?? | Ongoing | Monthly | £ 7.97 |
-| 008 | Adobe Audition | 27 February 2024 | TO CANCEL | Monthly | £ 34.99 |
+| 008 | Adobe Audition | 27 February 2024 | 14 May 2024 | Monthly | £ 34.99 |
