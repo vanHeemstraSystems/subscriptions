@@ -12,3 +12,4 @@ Subscriptions
 | 007 | GitPod | ?? | Ongoing | Monthly | £ 7.97 |
 | 008 | Adobe Audition | 27 February 2024 | 14 May 2024 | Monthly | £ 34.99 |
 | 009 | Adobe After Effects | 27 February 2024 | 14 May 2024 | Monthly | £ 39.64 |
+| 010 | Production Crate | ?? | TO CANCEL | Monthly | £ 12.30 |
