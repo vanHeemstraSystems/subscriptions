@@ -5,4 +5,4 @@ Subscriptions
 | -- | -- | -- | -- | -- | -- |
 | 001 | Bluehost | ?? | 19 March 2024 | Yearly | $ 251.76 |
 | 002 | Dakboard | ?? | 19 March 2024 | Yearly | $ ?? |
-| 003 | ?? | ?? | ?? | ?? | $ ?? |
+| 003 | Shelly Cloud | ?? | Ongoing | N/A | $ FREE |
