@@ -19,3 +19,4 @@ Subscriptions
 | 014 | AlarmGrid | ?? | 14 May 2024 | Monthly | ~$ 10~ |
 | 015 | Tractive | ?? | 14 May 2024 | Yearly | ~$ ??~ |
 | 016 | Resilio Sync | ?? | TO CANCEL | Yearly | $ ?? |
+| 017 | Render | ?? | Ongoing | Yearly | $ ?? |
