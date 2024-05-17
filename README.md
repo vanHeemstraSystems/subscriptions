@@ -21,3 +21,6 @@ Subscriptions
 | 016 | Resilio Sync | ?? | TO CANCEL | Yearly | $ ?? |
 | 017 | Render | ?? | Ongoing | Yearly | $ ?? |
 | 018 | Hetzner | ?? | Ongoing | Yearly | $ ?? |
+| 019 | Paperspace | ?? | Ongoing | Yearly | $ ?? |
+| 020 | LinkedIn Premium | ?? | Ongoing | Yearly | $ ?? |
+| 021 | Card Magician's Guild | 16 May 2024 | Ongoing | Monthly | $ 27 |
