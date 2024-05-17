@@ -22,5 +22,5 @@ Subscriptions
 | 017 | Render | ?? | Ongoing | Yearly | $ ?? |
 | 018 | Hetzner | ?? | Ongoing | Yearly | $ ?? |
 | 019 | Paperspace | ?? | Ongoing | Yearly | $ ?? |
-| 020 | LinkedIn Premium | ?? | Ongoing | Yearly | $ ?? |
+| 020 | LinkedIn Premium | ?? | 17 May 2024 | Monthly | ~€ 29.74~ |
 | 021 | Card Magician's Guild | 16 May 2024 | Ongoing | Monthly | $ 27 |
