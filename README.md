@@ -24,3 +24,4 @@ Subscriptions
 | 019 | Paperspace | ?? | Ongoing | Yearly | $ ?? |
 | 020 | LinkedIn Premium | ?? | 17 May 2024 | Monthly | ~€ 29.74~ |
 | 021 | Card Magician's Guild | 16 May 2024 | Ongoing | Monthly | $ 27 |
+| 022 | Freepik | ?? | 23 May 2024 | Monthly | ~€ 18.15~ |
