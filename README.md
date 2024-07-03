@@ -27,3 +27,4 @@ Subscriptions
 | 022 | Freepik | ?? | 23 May 2024 | Monthly | ~€ 18.15~ |
 | 023 | Cookido | Not Started | Not Applicable | Annually | € 48.00  |
 | 024 | NotePlan | 3 July 2024 | Ongoing | Monthly | $ 9.99 |
+| 025 | Scaleway | ?? | Ongoing | Monthly | $ ?? |
