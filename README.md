@@ -26,3 +26,4 @@ Subscriptions
 | 021 | Card Magician's Guild | 16 May 2024 | Ongoing | Monthly | $ 27 |
 | 022 | Freepik | ?? | 23 May 2024 | Monthly | ~€ 18.15~ |
 | 023 | Cookido | Not Started | Not Applicable | Annually | € 48.00  |
+| 024 | NotePlan | 3 July 2024 | Ongoing | Monthly | $ 9.99 |
