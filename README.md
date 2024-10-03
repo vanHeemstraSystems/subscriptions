@@ -11,6 +11,7 @@ Subscriptions
 | 006 | Apple iCloud | ?? | Ongoing | Monthly | £ 4.99 | |
 | 007 | GitPod | ?? | Ongoing | Monthly | £ 7.97 | |
 | 008 | Adobe Audition | 27 February 2024 | 14 May 2024 | Monthly | ~€ 34.99~ | |
+| | | 5 August 2024 | Ongoing | Monthly | € 34.99 | For Movie The Hall of Fame |
 | 009 | Adobe After Effects | 27 February 2024 | 14 May 2024 | Monthly | ~€ 39.64~ | |
 | | | 5 August 2024 | Ongoing | Monthly | € 39.64 | Learning Element 3D |
 | 010 | Production Crate | ?? | 14 May 2024 | Monthly | ~£ 12.30~ | |
@@ -31,3 +32,4 @@ Subscriptions
 | 025 | Scaleway | ?? | Ongoing | Monthly | $ ?? | Suspend all web services and database when not required, to not be billed |
 | 026 | Airtable | ?? | Ongoing | Monthly | $ Free | |
 | 027 | StoriesOnBoard | 12 September 2024 | Ongoing | Monthly | $ 19.00 | |
+| 028 | Remote.It | 3 October 2024 | Ongoing | Monthly | $ Free | |
