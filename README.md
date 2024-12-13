@@ -33,4 +33,4 @@ Subscriptions
 | 026 | Airtable | ?? | Ongoing | Monthly | $ Free | |
 | 027 | StoriesOnBoard | 12 September 2024 | Ongoing | Monthly | $ 19.00 | |
 | 028 | Remote.It | 3 October 2024 | Ongoing | Monthly | $ Free | |
-| 029 | Cursor.com | 13 December 2024 | Ongoing | Monthly | $ 20.00 | |
+| 029 | Cursor.com | 13 December 2024 | Ongoing | Monthly | $ 20.00 | AI Assistant in Visual Studio Code |
