@@ -6,7 +6,7 @@ Subscriptions
 | 001 | Bluehost | ?? | 19 March 2024 | Yearly | ~$ 251.76~ | Cancelled |
 | 002 | Dakboard | ?? | 19 March 2024 | Yearly | ~$ ??~ | Cancelled |
 | 003 | Shelly Cloud | ?? | Ongoing | N/A | $ Free | |
-| 004 | YouTube Premium | ?? | 14 May 2024 | Monthly | ~£ 10.32~ | |
+| 004 | YouTube Premium | ?? | 14 May 2024 | Monthly | ~£ 10.32~ | Cancelled |
 | 005 | GitHub | ?? | Ongoing | Monthly | £ 20.00 | |
 | 006 | Apple iCloud | ?? | Ongoing | Monthly | £ 4.99 | |
 | 007 | GitPod | ?? | Ongoing | Monthly | £ 7.97 | |
@@ -24,9 +24,9 @@ Subscriptions
 | 017 | Render | ?? | Ongoing | Yearly | $ ?? | Suspend all web services and database when not required, to not be billed |
 | 018 | Hetzner | ?? | Ongoing | Yearly | $ ?? | |
 | 019 | Paperspace part of DigitalOcean | ?? | Ongoing | Yearly | $ ?? | |
-| 020 | LinkedIn Premium | ?? | 17 May 2024 | Monthly | ~€ 29.74~ | |
+| 020 | LinkedIn Premium | ?? | 17 May 2024 | Monthly | ~€ 29.74~ | Cancelled |
 | 021 | Card Magician's Guild | 16 May 2024 | Ongoing | Monthly | $ 27.00 | |
-| 022 | Freepik | ?? | 23 May 2024 | Monthly | ~€ 18.15~ | |
+| 022 | Freepik | ?? | 23 May 2024 | Monthly | ~€ 18.15~ | Cancelled |
 | 023 | Cookido | Not Started | Not Applicable | Annually | € 48.00 | |
 | 024 | NotePlan | 3 July 2024 | Ongoing | Monthly | $ 9.99 | |
 | 025 | Scaleway | ?? | Ongoing | Monthly | $ ?? | Suspend all web services and database when not required, to not be billed |
