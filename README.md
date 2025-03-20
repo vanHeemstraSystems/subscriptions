@@ -36,6 +36,6 @@ Subscriptions
 | 029 | [Cursor.com](https://www.cursor.com/) | 13 December 2024 | Ongoing | Monthly | $ 20.00 | AI Assistant in Visual Studio Code |
 | 030 | [DevRev](https://devrev.ai/) | 6 January 2025 | Ongoing | Monthly | $ 9.99 | Software Build and Support Integration Platform |
 | 031 | [Aikido](https://app/aikido.dev) | 10 March 2025 | Ongoing | Monthly | $ Free | AI Assistant in Repository Code Security Vulnerability Scanning |
-| 032 | [RenderNet.ai](https://app.rendernet.ai/) | 6 January 2025 | Ongoing | Monthly | $ 9.00 | Video Generation Platform - Here I Host My Own Lifelike Avatar |
+| 032 | [RenderNet.ai](https://app.rendernet.ai/) | 6 January 2025 | Ongoing | Monthly | $ 9.00 | AI Video Generation Platform - Here I Host My Own Lifelike Avatar |
 
 
