@@ -23,7 +23,7 @@ Subscriptions
 | 016 | Resilio Sync | ?? | TO CANCEL | Yearly | $ ?? | |
 | 017 | Render | ?? | Ongoing | Yearly | $ ?? | Suspend all web services and database when not required, to not be billed |
 | 018 | Hetzner | ?? | Ongoing | Yearly | $ ?? | |
-| 019 | Paperspace part of DigitalOcean | ?? | Ongoing | Yearly | $ ?? | |
+| 019 | Paperspace part of DigitalOcean | ?? | 28 July 2025 | Yearly | $ ?? | Deactivated (no payments)|
 | 020 | LinkedIn Premium | ?? | 17 May 2024 | Monthly | ~€ 29.74~ | Cancelled |
 | 021 | Card Magician's Guild | 16 May 2024 | Ongoing | Monthly | $ 27.00 | |
 | 022 | Freepik | ?? | 23 May 2024 | Monthly | ~€ 18.15~ | Cancelled |
