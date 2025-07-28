@@ -17,7 +17,7 @@ Subscriptions
 | 010 | Production Crate | ?? | 14 May 2024 | Monthly | ~£ 12.30~ | Cancelled |
 | 011 | GitLab - Agility Game | ?? | Ongoing | Monthly | $ Free - Consider Premium $ 29.00 | |
 | 012 | GitLab - van Heemstra Systems | ?? | Ongoing | Monthly | $ Free | |
-| 013 | n8n | ?? | 28 July 2025 | Monthly | € 10 | Cancelled |
+| 013 | n8n | ?? | 28 July 2025 | Monthly | ~€ 10~ | Cancelled |
 | 014 | AlarmGrid | ?? | 14 May 2024 | Monthly | ~$ 10.00~ | Cancelled |
 | 015 | Tractive | ?? | 14 May 2024 | Yearly | ~$ ??~ | Cancelled |
 | 016 | Resilio Sync | ?? | TO CANCEL | Yearly | $ ?? | |
