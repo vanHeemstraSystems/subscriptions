@@ -20,7 +20,7 @@ Subscriptions
 | 013 | n8n | ?? | 28 July 2025 | Monthly | ~€ 10~ | Cancelled |
 | 014 | AlarmGrid | ?? | 14 May 2024 | Monthly | ~$ 10.00~ | Cancelled |
 | 015 | Tractive | ?? | 14 May 2024 | Yearly | ~$ ??~ | Cancelled |
-| 016 | Resilio Sync | ?? | TO CANCEL | Yearly | $ ?? | |
+| 016 | Resilio Sync | ?? | 27 May 2024 | Yearly | ~$ ??~ | Cancelled |
 | 017 | Render | ?? | Ongoing | Yearly | $ ?? | Suspend all web services and database when not required, to not be billed |
 | 018 | Hetzner | ?? | Ongoing | Yearly | $ ?? | |
 | 019 | Paperspace part of DigitalOcean | ?? | 28 July 2025 | Yearly | ~$ ??~ | Deactivated (no payments)|
