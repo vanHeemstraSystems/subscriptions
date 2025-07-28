@@ -34,7 +34,7 @@ Subscriptions
 | 027 | StoriesOnBoard | 12 September 2024 | Ongoing | Monthly | $ 19.00 | |
 | 028 | Remote.It | 3 October 2024 | Ongoing | Monthly | $ Free | Access your Home Docker Containers from Outside Your Home |
 | 029 | [Cursor.com](https://www.cursor.com/) | 13 December 2024 | Ongoing | Monthly | $ 20.00 | AI Assistant in Visual Studio Code |
-| 030 | [DevRev](https://devrev.ai/) | 6 January 2025 | Ongoing | Monthly | $ 9.99 | Software Build and Support Integration Platform |
+| 030 | [DevRev](https://devrev.ai/) | 6 January 2025 | Ongoing | Monthly | $ 9.99 | Software Build and Support Integration Platform (Unclear about payments, find out) |
 | 031 | [Aikido](https://app/aikido.dev) | 10 March 2025 | Ongoing | Monthly | $ Free | AI Assistant in Repository Code Security Vulnerability Scanning |
 | 032 | [RenderNet.ai](https://app.rendernet.ai/) | 6 January 2025 | Ongoing | Monthly | $ 9.00 | AI Video Generation Platform - Here I Host My Own Lifelike Avatar |
 
