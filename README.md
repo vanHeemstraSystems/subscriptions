@@ -12,8 +12,10 @@ Subscriptions
 | 007 | GitPod | ?? | Ongoing | Monthly | £ 7.97 | |
 | 008 | Adobe Audition | 27 February 2024 | 14 May 2024 | Monthly | ~€ 34.99~ | Cancelled |
 | | | 5 August 2024 | 3 October 2024 | Monthly | ~€ 34.99~ | For Movie The Hall of Fame, Cancelled |
+| | | ?? | 1 August 2025 | Monthly | ~€ 39.64~ | Cancelled |
 | 009 | Adobe After Effects | 27 February 2024 | 14 May 2024 | Monthly | ~€ 39.64~ | Cancelled |
 | | | 5 August 2024 | 3 October 2024 | Monthly | ~€ 39.64~ | Learning Element 3D |
+| | | ?? | 1 August 2025 | Monthly | ~€ 39.64~ | Cancelled |
 | 010 | Production Crate | ?? | 14 May 2024 | Monthly | ~£ 12.30~ | Cancelled |
 | 011 | GitLab - Agility Game | ?? | Ongoing | Monthly | $ Free - Consider Premium $ 29.00 | |
 | 012 | GitLab - van Heemstra Systems | ?? | Ongoing | Monthly | $ Free | |
