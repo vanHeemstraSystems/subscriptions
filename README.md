@@ -33,7 +33,7 @@ Subscriptions
 | 024 | NotePlan | 3 July 2024 | Ongoing | Monthly | $ 9.99 | |
 | 025 | Scaleway | ?? | Ongoing | Monthly | $ ?? | Suspend all web services and database when not required, to not be billed |
 | 026 | Airtable | ?? | Ongoing | Monthly | $ Free | |
-| 027 | StoriesOnBoard | 12 September 2024 | Ongoing | Monthly | $ 19.00 | Connected with Support to cancel subscription; still needs actioned|
+| 027 | StoriesOnBoard | 12 September 2024 | August 2025 | Monthly | ~$ 19.00~ | Cancelled |
 | 028 | Remote.It | 3 October 2024 | Ongoing | Monthly | $ Free | Access your Home Docker Containers from Outside Your Home |
 | 029 | [Cursor.com](https://www.cursor.com/) | 13 December 2024 | Ongoing | Monthly | $ 20.00 | AI Assistant in Visual Studio Code |
 | 030 | [DevRev](https://devrev.ai/) | 6 January 2025 | Ongoing | Monthly | $ 9.99 | Software Build and Support Integration Platform (Unclear about payments, find out) |
