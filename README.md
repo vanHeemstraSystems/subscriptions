@@ -40,6 +40,6 @@ Subscriptions
 | 031 | [Aikido](https://app/aikido.dev) | 10 March 2025 | Ongoing | Monthly | $ Free | AI Assistant in Repository Code Security Vulnerability Scanning |
 | 032 | [RenderNet.ai](https://app.rendernet.ai/) | 6 January 2025 | Ongoing | Monthly | $ 9.00 | AI Video Generation Platform - Here I Host My Own Lifelike Avatar |
 | 033 | You Need A Budget (YNAB) | ?? | 1 August 2025 | Monthly | $ ~14.99~ | Cancelled: Budgetting Service |
-| 034 | Sliplane.IO | ?? | Ongoing | Monthly | $ 9.99 | Used to host MongoDB instances, only charges if servers are running |
+| 034 | [Sliplane.io](https://sliplane.io) | ?? | Ongoing | Monthly | $ 9.99 | Used to host MongoDB instances, only charges if servers are running |
 
 
