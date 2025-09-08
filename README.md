@@ -41,6 +41,6 @@ Subscriptions
 | 032 | [RenderNet.ai](https://app.rendernet.ai/) | 6 January 2025 | Ongoing | Monthly | $ 9.00 | AI Video Generation Platform - Here I Host My Own Lifelike Avatar |
 | 033 | You Need A Budget (YNAB) | ?? | 1 August 2025 | Monthly | $ ~14.99~ | Cancelled: Budgetting Service |
 | 034 | [Sliplane.io](https://sliplane.io) | ?? | Ongoing | Monthly | $ 9.99 | Used to host MongoDB instances, only charges if servers are running |
-| 035 | [Kamatera]() | ?? | Ongoing | Monthly | $ 9.02 | Use for running MongoDB. TO DO: Check if Sliplane does not already cover running MongoDB, so this is superfluous and can bve cancelled. |
+| 035 | [Kamatera]() | ?? | Ongoing | Monthly | $ 9.02 | Use for running MongoDB. [Suspended](https://console.kamatera.com/servers/a4442423-3fb2-4556-a659-cf159ff2d772/overview?auxFilter=&datacenter=&filter=&from=&nItems=10&sortBy=name&tags=) TO DO: Check if Sliplane does not already cover running MongoDB, so this is superfluous and can bve cancelled. |
 
 
